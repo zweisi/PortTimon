@@ -1,0 +1,30 @@
+html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+section {
+  width: 100%;
+  text-align: center;
+  background: #fff;
+  background-size: cover;
+  height: 100vh;
+  display: table;
+  font-family: 'Montserrat', sans-serif;
+  color: #eae7dc;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+#secOne {
+  background: url(../images/imgTimon.png) no-repeat 50% 50%;
+  background-size: cover;
+}
+/*# sourceMappingURL=main.css.map */
